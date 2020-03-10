@@ -8,3 +8,7 @@ padding: 0;
     font-family: 'Barlow','HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif; 
     height: 500pt;  
 }
+
+h1{
+    text-align: center;
+}
