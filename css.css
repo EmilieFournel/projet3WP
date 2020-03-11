@@ -3,10 +3,14 @@ margin: 0;
 padding: 0;
 }
 
+header{
+    background-color: coral;
+    height: 100pt;
+}
+
 .background{
     background-color: #fcf9ef;
-    font-family: 'Barlow','HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif; 
-    height: 2500pt;  
+    font-family: 'Barlow','HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;  
 }
 
 h1{
@@ -17,6 +21,22 @@ h2{
     color: #e35016;
     text-align: left;
     padding-left: 5%;
+}
+
+.imgpres{
+    text-align: center;
+    width: 100%;
+}
+
+p#superpo {
+    position: absolute;
+    top: 400px;
+    color: white;
+    background-color: black;
+}
+
+.position{
+    position: relative;
 }
 
 .img123{
@@ -33,4 +53,16 @@ p{
     padding-left: 5%;
     padding-right: 5%;
     text-align: left;
+}
+
+footer{
+    background-color: black;
+    height: 50pt;
+    margin-top: -1em;
+}
+
+.footercolor{
+    font-size: 15px;
+    color: white;
+    padding-top: 5px;
 }
