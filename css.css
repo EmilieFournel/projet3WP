@@ -6,6 +6,16 @@ padding: 0;
 header{
     background-color: coral;
     height: 100pt;
+    font-family: 'Barlow','HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;  
+    font-size: 20px;
+}
+
+.logo{
+    width: 15%;
+}
+
+.imgburger{
+    width: 15%;
 }
 
 .background{
