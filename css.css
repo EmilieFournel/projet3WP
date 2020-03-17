@@ -18,6 +18,14 @@ header{
     width: 15%;
 }
 
+.linkedin{
+    width: 5%;
+}
+
+.imgburher, .facebook, .insta, .linkedin{
+    padding-left: 15%;
+}
+
 .background{
     background-color: #fcf9ef;
     font-family: 'Barlow','HelveticaNeue','Helvetica Neue',Helvetica,Arial,sans-serif;  
